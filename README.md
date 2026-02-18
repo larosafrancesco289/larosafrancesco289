@@ -19,4 +19,4 @@ Language model evaluation, sampling methods, NLP research, and building desktop/
 
 ## Links
 
-[Portfolio](https://francesco-portfolio-mauve.vercel.app) · [LinkedIn](https://linkedin.com/in/francesco-la-rosa-b79b162b5) · [larosafrancesco289@gmail.com](mailto:larosafrancesco289@gmail.com)
+[Portfolio](https://francesco-portfolio-mauve.vercel.app) · [LinkedIn](www.linkedin.com/in/francesco-la-rosa-8871772a9) · [larosafrancesco289@gmail.com](mailto:larosafrancesco289@gmail.com)
