@@ -10,7 +10,7 @@ I study how people learn with language models, and build the tools to find out.
 | Work | Status |
 |---|---|
 | **Creating an LLM Tutor with User-Editable Representations**, with Pavlos Andreadis | Under review, LAK 2027 (Journal of Learning Analytics) |
-| **What Improves Akkadian Machine Translation, and What Only Seems To?**, with Jaehyuk Choi and King Shun Hanson Siu | Accepted, MRL 2026 (EMNLP workshop). [Code](https://github.com/larosafrancesco289/akkadian-mt) |
+| **What Improves Akkadian Machine Translation, and What Only Seems To?**, with Jaehyuk Choi and King Shun Hanson Siu | Published, MRL 2026 (EMNLP workshop). [Paper](https://aclanthology.org/2026.mrl-1.11/) · [Code](https://github.com/larosafrancesco289/akkadian-mt) |
 | **Temperature Fragility and the Conditional Benefits of Truncation Sampling** | Preprint, [arXiv:2609.15476](https://arxiv.org/abs/2609.15476), 2026. [Code](https://github.com/larosafrancesco289/decoding-robustness) |
 | **Grammar and the Arrow of Time in Language Models** | Report, Hongler lab, EPFL, 2025. [Code](https://github.com/larosafrancesco289/syntactic-arrow-of-time) |
 
